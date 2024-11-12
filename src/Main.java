@@ -1,11 +1,11 @@
 public class Main {
     public static void main(String[] args) {
 
-        System.out.println("Hello people!");
-        String text = "New world";
+        System.out.println("TERETERETERE!");
+        String text = "LALALALALALALALALALALALALALALALALAL";
         System.out.println(text);
 
-        int number = 10;
+        int number = 999999999;
         System.out.println(number);
     }
 }
